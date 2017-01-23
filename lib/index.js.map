@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["roc"],"mappings":";;;;;;;;;;;;;QAAOA,G","file":"index.js","sourcesContent":["export roc from './roc';\n"]}
